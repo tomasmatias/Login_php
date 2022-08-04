@@ -1,4 +1,4 @@
-# Login_php
+# login_php
 Login basico creado con PHP, instrucciones adentro.
 
 1.- Iniciar servicios APACHE, MYSQL en XAMPP.
